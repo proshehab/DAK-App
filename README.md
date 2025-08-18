@@ -63,9 +63,9 @@ PHP, Laravel, Blade, Javascript, HTML, CSS, Bootstrap
 
 ![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/12.png)
 
-![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/13.PNG)
+![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/13.png)
 
-![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/14.PNG)
+![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/14.png)
 
 ![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/15.png)
 
