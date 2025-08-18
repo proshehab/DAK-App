@@ -1,10 +1,10 @@
 # 📬 DAK Management System
 
--   This is Multi-user applications
--   Created: 11 April 2025
--   Item Version : v 1.0
--   Author : Md. Sheab Bin Shakeb
--   Contact Email: shehab.shakib@gmail.com
+- This is Multi-user applications
+- Created: 11 April 2025
+- Item Version : v 1.0
+- Author : Md. Sheab Bin Shakeb
+- Contact Email: shehab.shakib@gmail.com
 
 ## 🚀 Technologies Used
 
@@ -12,13 +12,13 @@ Laravel 12.0 – Powerful backend framework
 
 ## 🗄️ Database
 
--   MySQL
--   Database name: letter_app
+- MySQL
+- Database name: letter_app
 
 ## 🔑 Admin Login Details
 
--   Email: admin@gmail.com
--   Password : admin.123
+- Email: admin@gmail.com
+- Password : admin.123
 
 ## 🛠 Skills
 
@@ -26,29 +26,14 @@ PHP, Laravel, Blade, Javascript, HTML, CSS, Bootstrap
 
 ## 📌 Features
 
--   The system uses Bootstrap 5 for styling.
--   QR codes are generated for tracking letters.
--   Print pages automatically trigger the print dialog.
--   Status tracking includes Pending, Shipped, and Delivered states.
--   Admins can manage users and track all shipments.
--   Users can create addresses and print QR codes.
--   Separate authentication for admins and users.
--   Role-based middleware protects routes.
-
-## ⚙️ Installation
-
-Install this project with composer. Just copy the command:
-
-```bash
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan db:seed
-php artisan migrate:reset
-php artisan migrate:refresh
-
-```
+- The system uses Bootstrap 5 for styling.
+- QR codes are generated for tracking letters.
+- Print pages automatically trigger the print dialog.
+- Status tracking includes Pending, Shipped, and Delivered states.
+- Admins can manage users and track all shipments.
+- Users can create addresses and print QR codes.
+- Separate authentication for admins and users.
+- Role-based middleware protects routes.
 
 ## ✨ Screenshots
 
