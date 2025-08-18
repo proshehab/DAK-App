@@ -4,7 +4,7 @@
 - Created: 11 April 2025
 - Item Version : v 1.0
 - Author : Md. Sheab Bin Shakeb
-- Contact Email: shehab.shakib@gmail.com
+<!-- - Contact Email: shehab.shakib@gmail.com -->
 
 ## 🚀 Technologies Used
 
@@ -71,7 +71,7 @@ PHP, Laravel, Blade, Javascript, HTML, CSS, Bootstrap
 
 ![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/16.png)
 
-<!-- ![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/17.png)
+![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/17.png)
 
 ![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/18.png)
 
@@ -87,4 +87,4 @@ PHP, Laravel, Blade, Javascript, HTML, CSS, Bootstrap
 
 ![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/24.png)
 
-![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/25.png) -->
+![App Screenshot](https://github.com/proshehab/DAK-App/blob/main/Screenshots/25.png)
